@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+}
+
+html {
+  background-color: #e5e2d9;
+  margin: 50px;
+}
+
+body {
+  width: 900px;
+  background-color: #e8f7f2;
+  margin: auto;
+  border: solid 3px #363b39;  
+  padding: 50px;
+  font-family: 'Open Sans', sans-serif;
+  color: #004b32;
+  font-size: 1.25em;
+}
+
+p {
+  padding: 0 0 0 25px;
+  color: black;
+}
+
+img {
+  width: 300px;
+  padding: 0 0 25px 25px;
+  float: right;
+}
+
+div {
+  padding: 0 0 30px 0;
+}
+
+div p {
+  margin: 8px;
+  line-height: 1.5;
+}
+
+h1 {
+  font-weight: 100;
+  font-size: 3.5em;
+}
+
+h2 {
+  font-weight: 400;
+  font-size: 1.75em;
+}
